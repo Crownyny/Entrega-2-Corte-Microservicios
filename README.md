@@ -1,6 +1,8 @@
 Hecho por:<br>
 Mary Montenegro Cotacio<br>
 Julian David Meneses Daza<br>
+
+LINK DEL VIDEO: https://youtu.be/52ReGIJ7a90<br>
 Este trabajo se hiso en base a los siguientes requisitos:<br>
 
 Requisitos gestión artículos<br>
